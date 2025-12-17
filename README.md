@@ -10,7 +10,8 @@ This tutorial outlines how to create a virtual machine with Microsoft Azure.<br 
 - Windows 10</b> (21H2)
 <h2>List of Prerequisites</h2>
 - Make a Microsoft Azure Account
- -Please have remote desktop connection open for last step
+
+-Please have remote desktop connection open for last step
 <h2>Creating A Virtual Machine Within Microsoft Azure</h2>
 <img width="1556" height="867" alt="image" src="https://github.com/user-attachments/assets/a47ba7df-f2c9-46e6-99d5-2af1d5a38a61" />
 Once signed into your Microsoft Azure account, click on the top 3 lines, then click on virtual machines. Now, click Create and click Use Azure virtual machine. 
